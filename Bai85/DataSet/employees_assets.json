@@ -1,0 +1,27 @@
+[
+    {
+        "Employeeid": "a1",
+        "AssetId": "b1",
+        "Role": "Main"
+    },
+    {
+        "Employeeid": "a2",
+        "AssetId": "b2",
+        "Role": "Main"
+    },
+    {
+        "Employeeid": "a3",
+        "AssetId": "b3",
+        "Role": "Main"
+    },
+    {
+        "Employeeid": "a4",
+        "AssetId": "b4",
+        "Role": "Main"
+    },
+    {
+        "Employeeid": "a5",
+        "AssetId": "b5",
+        "Role": "Main"
+    }
+]
